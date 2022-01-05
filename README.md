@@ -1,1 +1,1 @@
-# examples
+# different kind of code examples
